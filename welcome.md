@@ -2,6 +2,8 @@
 layout: "page"
 title: "Welcome to the Dame
 author: Madame Simsbury
+permalink: /welcome/
+date: 2025-08-28
 ---
 *The Dame* is commited to collecting and distributing the discussion fodder for the BYU ACME cohort of 2026. The only thesis is "Tell me more." I hope for this space to be primarily for the in-house writing of the cohort. However, I am also excited in its potential as a forum for writing and ideas discovered by members of the cohort.
 
