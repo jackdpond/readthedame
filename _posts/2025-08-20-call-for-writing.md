@@ -2,6 +2,7 @@
 title: "An intriguing observation"
 layout: "post"
 author: "The Doctor"
+date: 2025-08-20
 ---
 Dearest Madame Simsbury,
 
