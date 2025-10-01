@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to the Dame
+title: "Welcome to the Dame"
 author: Madame Simsbury
 permalink: /welcome/
 date: 2025-08-28
