@@ -15,4 +15,9 @@ I’d like to start a little publication, a magazine or a gazette or perhaps a p
 Let me know what you think.
 
 Best,
-The Doctor
+Dr. K.
+
+___
+
+I liked the idea--welcome to the *The Dame*. Read more about it [here]({{ "/welcome/" | relative_url }}).
+-- Madame Simsbury
