@@ -11,7 +11,7 @@ As I am fabulously wealthy and occaisionally bored, I am happy to sponsor the wh
 
 *The Dame* is committed to slow media and thoughtful responses. No opportunity for reactions or comments will encourage readers to be more measured in their responses to pieces on *The Dame*, which we hope to publish as well. This is conclusively because a non-static site is more difficult (see previous section), and retroactively because of my commitment to a more savoury approach to media consumption. 
 
-I am not looking for polemic or controversy--sensationalists and provacateurs are some of the most boring people to be around. I am interested in the second look, the discovery, the humble opinion, the heretic even, but not the attention magician. I liked *The Crown* better than *Tiger King*. Hurtful, demeaning, condescending nor fearful pieces will have a place on the Dame, either for original publication or for rounding up.  
+I am not looking for polemic or controversy--sensationalists and provacateurs are some of the most boring people to be around. I am interested in the second look, the discovery, the humble opinion, the heretic even, but not the attention magician. I liked *The Crown* better than *Tiger King*. Hurtful, demeaning, condescending, or fear-inducing pieces will have no place on The Dame, whether for original publication or for inclusion in roundups. 
 
 To submit a self-written piece, please copy and paste your writing (in markdown would be best) into an email to madame@readthedame.com, along with any pictures you would like to include. PDFs are also great.
 
