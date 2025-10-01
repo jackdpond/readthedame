@@ -1,7 +1,7 @@
 ---
 title: "An intriguing observation"
 layout: "post"
-author: "The Doctor"
+author: "Doctor K."
 date: 2025-08-20
 ---
 Dearest Madame Simsbury,
@@ -20,5 +20,5 @@ Dr. K.
 ___
   
   
-I liked the idea--welcome to the *The Dame*. Read more about it [here]({{ "/welcome/" | relative_url }}).
+I liked the idea--welcome to the *The Dame*. Read more about it [here]({{ "/welcome/" | relative_url }}).  
 -- Madame Simsbury
