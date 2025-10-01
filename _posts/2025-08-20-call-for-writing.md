@@ -18,6 +18,7 @@ Best,
 Dr. K.
 
 ___
-
+  
+  
 I liked the idea--welcome to the *The Dame*. Read more about it [here]({{ "/welcome/" | relative_url }}).
 -- Madame Simsbury
