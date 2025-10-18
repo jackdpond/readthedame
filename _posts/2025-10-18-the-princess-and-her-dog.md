@@ -13,6 +13,7 @@ The following is a retelling of a fairy tale I am sure I read once but have neve
 I hope you and your audience enjoy.
 
 ---
+
 A long time ago, in a country far away, there lived a princess. All who knew her could attest to her tender compassion, her keen intelligence, but most obviously, her radiant beauty--for she was silent. Not a sound had escaped her lips since she cried as a newborn. She read voraciously and listened attentively to visiting storytellers, and capably took care of every needful thing in her life. Despite years of worries and pleas from her parents, the king and queen, she showed no interest in the spoken word--or at the very least not her own. The princess had a faithful and intelligent dog who heeded her unspoken desires. Her dog was her dearest friend and perpetual companion.
 
 Mere weeks before the princess' eighteenth birthday, the girl still had not spoken. Desperate to hear a word from her, and unable to coax them out of her himself, her father the King offered the princess' hand in marriage to the man that could make her speak. The princess, upon hearing her father's decree, only smiled, and made it known that each hopeful suitor would meet her in a room alone with her and her dog--and that her clever dog would decide when the interview was finished. Many a man entered into the room with the princess only to be chased out again by the vicious barking dog--if they were fast enough. 
