@@ -23,7 +23,7 @@ Webcomics are a special case of iteration, because the artist doesn't just keep 
 
 ![](/assets/iteration/smbc1.png)
 
-A few weeks later, on September 17, he published this comic:
+A few weeks later, on September 17, he published this comic:  
 ![](/assets/iteration/smbc2.png)
 
 This stuff is pretty awful. At this stage the jokes are like packing peanuts. They're all like that in the begining, if not worse. And yet Zach kept at it, publishing his comics every other day and eventually daily. 
