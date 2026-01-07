@@ -14,6 +14,9 @@ Sincerely,
 Ethan Palenske
 
 ---
+
+**Chapter 1**
+
 Saber’s hooves arrhythmically pounded the ground as Estin rode towards Carlton. Estin rubbed the mane of the horse Saber was currently inhabiting, encouraging him to push just a little further. They were nearing the border of town, and Saber could rest soon, once again disembodied. Then Estin’s real work would begin.
 
 Estin was staring off into the distance, nearly asleep, then shook himself awake when he saw lights in the distance. He tugged sharply on Saber’s reins, causing him to rear up, and exerted control over the horse, stopping the neigh that was already forming in his mouth. Estin dismounted and put his right hand on Saber’s sweaty face, then focused. In his left hand Saber’s intelligence formed, and the horse collapsed to the ground, mindless. Estin carefully put the horse’s intelligence in his small bag, storing it below his many other intelligences.
